@@ -1,0 +1,11 @@
+/Users/adacinkilic/Desktop/PATİKA 4. ÖDEV/PATİKA 4. ÖDEV/obj/Debug/net8.0/PATİKA 4. ÖDEV.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adacinkilic/Desktop/PATİKA 4. ÖDEV/PATİKA 4. ÖDEV/obj/Debug/net8.0/PATİKA 4. ÖDEV.AssemblyInfoInputs.cache
+/Users/adacinkilic/Desktop/PATİKA 4. ÖDEV/PATİKA 4. ÖDEV/obj/Debug/net8.0/PATİKA 4. ÖDEV.AssemblyInfo.cs
+/Users/adacinkilic/Desktop/PATİKA 4. ÖDEV/PATİKA 4. ÖDEV/obj/Debug/net8.0/PATİKA 4. ÖDEV.csproj.CoreCompileInputs.cache
+/Users/adacinkilic/Desktop/PATİKA 4. ÖDEV/PATİKA 4. ÖDEV/bin/Debug/net8.0/PATİKA 4. ÖDEV
+/Users/adacinkilic/Desktop/PATİKA 4. ÖDEV/PATİKA 4. ÖDEV/bin/Debug/net8.0/PATİKA 4. ÖDEV.dll
+/Users/adacinkilic/Desktop/PATİKA 4. ÖDEV/PATİKA 4. ÖDEV/bin/Debug/net8.0/PATİKA 4. ÖDEV.pdb
+/Users/adacinkilic/Desktop/PATİKA 4. ÖDEV/PATİKA 4. ÖDEV/obj/Debug/net8.0/PATİKA 4. ÖDEV.dll
+/Users/adacinkilic/Desktop/PATİKA 4. ÖDEV/PATİKA 4. ÖDEV/obj/Debug/net8.0/refint/PATİKA 4. ÖDEV.dll
+/Users/adacinkilic/Desktop/PATİKA 4. ÖDEV/PATİKA 4. ÖDEV/obj/Debug/net8.0/PATİKA 4. ÖDEV.pdb
+/Users/adacinkilic/Desktop/PATİKA 4. ÖDEV/PATİKA 4. ÖDEV/obj/Debug/net8.0/PATİKA 4. ÖDEV.sourcelink.json
